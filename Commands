@@ -1,0 +1,9 @@
+Try to use in android using Matsuri
+choose SSH connection
+buy a server with a clean IP
+you can use port 22
+input your password & IP 
+You can easily make your own vpn
+you can use firewall with these codes
+sudo apt install ufw
+ufw allow 22
